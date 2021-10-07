@@ -74,5 +74,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="UsersView.sql" />
+    <Build Include="localusers.sql" />
   </ItemGroup>
 </Project>
